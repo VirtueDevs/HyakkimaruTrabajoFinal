@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h3>Batallas</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>DIA LUNAR</th>
+                        <th>FOTO</th>
+                        <th>NOMBRE DEMONIO</th>
+                        <th>PARTE CUERPO</th>
+                        <th>LUGAR BATALLA</th>
+                        <th>UBICACION DEMONIO</th>
+                        <th>GANADOR BATALLA</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let batalla of batallas" class="text.center">
+                        <th>{{batalla.day}}</th>
+                        <td ><a href={{batalla.image}} target="_blank">Click Here</a></td>
+                        <td>{{batalla.devilName}}</td>
+                        <td>{{batalla.part}}</td>
+                        <td>{{batalla.place}}</td>
+                        <td>{{batalla.ubication}}</td>
+                        <td>{{batalla.winner}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

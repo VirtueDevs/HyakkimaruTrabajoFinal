@@ -1,0 +1,137 @@
+{
+    "battles":[
+    {
+        "day":1,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/60412b3f1609412ead45f6d8_WestStudio_LOL_Splash_77.jpg",
+        "devilName":"Kimimaru",
+        "part":"Pierna Izquierda",
+        "place":"Kerimu",
+        "ubication":"Ishtaban Bridge",
+        "winner":"Perdió"
+    },
+    {
+        "day":4,
+        "image":"https://pm1.narvii.com/6732/28205e7a50e3569ddeb6092acad03ef0155ba851v2_hq.jpg",
+        "devilName":"Daigo Kagemitsu",
+        "part":"Dedo Meñique",
+        "place":"Kumogakure",
+        "ubication":"kirigakure",
+        "winner":"Hyakkimaru"
+    },
+ {
+        "day":10,
+        "image":"https://pbs.twimg.com/media/Edsoly8WkAAnA_a?format=jpg&name=large",
+        "devilName":"Tahomaru",
+        "part":"Riñón",
+        "place":"Templo Zenkoji-ji",
+        "ubication":"Kashiwa",
+        "winner":"Hyakkimaru"
+    }, 
+{
+        "day":15,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/60412a4f8ff97e20a15db4bf_WestStudio_LOL_Splash_69.jpg",
+        "devilName":"Hitachi",
+        "part":"Estomago",
+        "place":"Templo Zenkoji-ji",
+        "ubication":"Asakusa",
+        "winner":"Hyakkimaru"
+    },
+{
+        "day":18,
+        "image":"https://external-preview.redd.it/B0FD3sRLmp4CzBq-SmUH9HZjj7HntfJdOLPsPS-eaNc.jpg?auto=webp&s=53642a2bc6f5488e80a2d613965888a178a6360b",
+        "devilName":"Jukai",
+        "part":"Mano Izquierda",
+        "place":"Casa de daigo",
+        "ubication":"Iwagakure",
+        "winner":"Perdió"
+    },
+    {
+        "day":25,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/5e2248283320f334f1a3cd74_WestStudio_LOL_Splash_08.jpg",
+        "devilName":"Nui-Nokata",
+        "part":"Mano Derecha",
+        "place":"Shibuya",
+        "ubication":"Konahagakure",
+        "winner":"Hyakkimaru"
+    },
+    {
+        "day":34,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/60412a0101bac4a7e26faca8_WestStudio_LOL_Splash_67.jpg",
+        "devilName":"biwamaru",
+        "part":"Ojo Derecho",
+        "place":"Naoshima",
+        "ubication":"Uzushiogakure",
+        "winner":"Perdió"
+    },
+    {
+        "day":42,
+        "image":"http://lol-stats.net/uploads/umG5cvhbbb95hCq5zk3yHuha8bMqaozwPVSTDn6y.jpeg",
+        "devilName":"Osamu Tezuka",
+        "part":"Torax",
+        "place":"Akihabara",
+        "ubication":"Amegakure",
+        "winner":"Hyakkimaru"
+    } ,   
+    {
+        "day":58,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/60412568d212ee4b6ea022dd_WestStudio_LOL_Splash_54.jpg",
+        "devilName":"Tanosuke",
+        "part":"Garganta",
+        "place":"Odaiba",
+        "ubication":"Yugakure",
+        "winner":"Hyakkimaru"
+    } ,
+    {
+        "day":61,
+        "image":"https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/5e2a3b38a9f6a2684281f055_WestStudio_LOL_Splash_17.jpg",
+        "devilName":"Jorogumo",
+        "part":"Brazo Derecho",
+        "place":"Kabukicho",
+        "ubication":"Tohoku",
+        "winner":"Hyakkimaru"
+    } ,
+    {
+        "day":"---",
+        "image":"https://pbs.twimg.com/media/Erot4MyVgAAiqjM.jpg",
+        "devilName":"Yokai Nue",
+        "part":"Brazo Izquierdo",
+        "place":"Nikko",
+        "ubication":"Otogakure",
+        "winner":"Pendiente"
+    } 
+
+    ],
+    "objects":[
+        {
+            "img":"https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/L%C3%A2mina_da_F%C3%BAria_de_Guinsoo_item.png/revision/latest?cb=20210503170211&path-prefix=pt-br",
+            "objeto":"Espadafuria de Guinsoo",
+            "procedencia":"Pertenecía al mercader de Hamurabi"
+        },
+        {
+            "img":"https://pm1.narvii.com/6297/6ce93c4b5919814170ed128c5995ae51099e7725_hq.jpg",
+            "objeto":"Cañon de Fuego Rápido",
+            "procedencia":"Saqueada en la península Ugamar"
+        },
+        {
+            "img":"https://i.pinimg.com/736x/42/ac/e0/42ace074e849e39db711aaff6162e5ac.jpg",
+            "objeto":"Espada de Doran",
+            "procedencia":"Robada al gran guerrero Liu Bei"
+        },
+        {
+            "img":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt90d15051ce747cb4/5fa1efee2425cd7a8af6b426/3116_Mage_T3_RylajsCrystalScepter.png",
+            "objeto":"Cetro de Cristal de Rylai",
+            "procedencia":"Obtenida mediante tráfico ilegal"
+        },
+        {
+            "img":"https://codigoesports.com/wp-content/uploads/2020/11/3190_Tank_T4_LocketoftheIronSolari.png",
+            "objeto":"Relicario de los Solari de Hierro",
+            "procedencia":"Encontrada en las ruinas Kei Hao"
+        },
+        {
+            "img":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf4013c6886193244/5fa1efbc1a81c1644e998cd5/3011_Enchanter_T3_ChemtechPutrifier.png",
+            "objeto":"Putrificador tecnoquímico",
+            "procedencia":"Prestado por el jardinero de la corte"
+        }
+    ]    
+    
+}
